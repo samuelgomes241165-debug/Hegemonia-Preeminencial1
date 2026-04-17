@@ -1,0 +1,1 @@
+# Hegemonia-Preeminencial1
