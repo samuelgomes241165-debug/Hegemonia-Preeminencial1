@@ -1,31 +1,320 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.6",
   "mcVersion": "1.20.1",
   "loaderType": "fabric",
   "loaderVersion": "0.15.6",
-  "releaseDate": "2025-01-01",
+  "releaseDate": "2026-04-18",
   "changelog": "Adicionado Sodium e Iris para melhor performance!",
   "files": [
     {
-      "name": "fabric-api-0.100.0+1.21.1.jar",
-      "path": "mods/fabric-api-0.100.0+1.21.1.jar",
-      "version": "0.100.0",
-      "sha256": "abc123...coloque_o_hash_real_aqui",
-      "url": "https://seu-servidor.com/launcher/mods/fabric-api-0.100.0+1.21.1.jar"
+      "name": "appleskin-forge-mc1.20.1-2.5.1.jar",
+      "path": "mods/appleskin-forge-mc1.20.1-2.5.1.jar",
+      "sha256": "e12419e43e3babc810af289403c5cd96bd7f09809b389acc6bb2f122b4b2a426"
     },
     {
-      "name": "sodium-fabric-0.5.8+mc1.21.1.jar",
-      "path": "mods/sodium-fabric-0.5.8+mc1.21.1.jar",
-      "version": "0.5.8",
-      "sha256": "def456...coloque_o_hash_real_aqui",
-      "url": "https://seu-servidor.com/launcher/mods/sodium-fabric-0.5.8+mc1.21.1.jar"
+      "name": "architectury-9.2.14-forge.jar",
+      "path": "mods/architectury-9.2.14-forge.jar",
+      "sha256": "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af"
     },
     {
-      "name": "iris-1.7.0+mc1.21.1.jar",
-      "path": "mods/iris-1.7.0+mc1.21.1.jar",
-      "version": "1.7.0",
-      "sha256": "ghi789...coloque_o_hash_real_aqui",
-      "url": "https://seu-servidor.com/launcher/mods/iris-1.7.0+mc1.21.1.jar"
+      "name": "azurelib-neo-1.20.1-3.1.3.jar",
+      "path": "mods/azurelib-neo-1.20.1-3.1.3.jar",
+      "sha256": "520a44fc8b7c97d75ef9051c0b1a095b49057ec253019fed76fdaab6cd61b7de"
+    },
+    {
+      "name": "balm-forge-1.20.1-7.3.38-all.jar",
+      "path": "mods/balm-forge-1.20.1-7.3.38-all.jar",
+      "sha256": "cbe8008218f0f574bc1f78b532cac5f978c33bf36ae2e14805340eab445fdb08"
+    },
+    {
+      "name": "bettercombat-forge-1.9.0%2B1.20.1.jar",
+      "path": "mods/bettercombat-forge-1.9.0%2B1.20.1.jar",
+      "sha256": "49c69dccf2c641246b4e3deca81ebac21f0ee119e81fc713b838b8e33569eea1"
+    },
+    {
+      "name": "caelus-forge-3.2.0+1.20.1.jar",
+      "path": "mods/caelus-forge-3.2.0+1.20.1.jar",
+      "sha256": "37495445e79df8b30a3a038a0051f3c8aa8447f91a9d0aa0d20baef69dda9368"
+    },
+    {
+      "name": "citadel-2.6.2-1.20.1.jar",
+      "path": "mods/citadel-2.6.2-1.20.1.jar",
+      "sha256": "bba058ed903670e81cb98996725dbe328ba147fb72cc10cfc9e39aee59cf0824"
+    },
+    {
+      "name": "Classes0.2-2.0.jar",
+      "path": "mods/Classes0.2-2.0.jar",
+      "sha256": "1fe11ee8d0a3d10dd0ba717ef9eccfce3c062845de491b11cd155a97b829d134"
+    },
+    {
+      "name": "cloth-config-11.1.136-forge.jar",
+      "path": "mods/cloth-config-11.1.136-forge.jar",
+      "sha256": "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2"
+    },
+    {
+      "name": "collective-1.20.1-8.13.jar",
+      "path": "mods/collective-1.20.1-8.13.jar",
+      "sha256": "80dd754b75c530768904e912ace11e0cf4deac7d1784b883dbeaead082469cd2"
+    },
+    {
+      "name": "configured-forge-1.20.1-2.2.3.jar",
+      "path": "mods/configured-forge-1.20.1-2.2.3.jar",
+      "sha256": "05dceddd57825f911135c929504ef320b75953d05e7dc918dba58a0574e5315f"
+    },
+    {
+      "name": "curios-forge-5.14.1+1.20.1.jar",
+      "path": "mods/curios-forge-5.14.1+1.20.1.jar",
+      "sha256": "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f"
+    },
+    {
+      "name": "ec_es_plugin-1.20.1-1.1.5-all.jar",
+      "path": "mods/ec_es_plugin-1.20.1-1.1.5-all.jar",
+      "sha256": "d072a3e4960cb11cfe1de891c0e9d826b4d20dc096bafc270677fdcd8627f170"
+    },
+    {
+      "name": "Elite X Quality Guns Forge v4.2 - 1.20.1.jar",
+      "path": "mods/Elite X Quality Guns Forge v4.2 - 1.20.1.jar",
+      "sha256": "f2ff91247e94d05825d13b12f197aa7f1a2e6b1dee82247c3fcc87ce4ca5bf27"
+    },
+    {
+      "name": "embeddium-0.3.31+mc1.20.1.jar",
+      "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
+      "sha256": "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb"
+    },
+    {
+      "name": "EnigmaticLegacy-2.30.1.jar",
+      "path": "mods/EnigmaticLegacy-2.30.1.jar",
+      "sha256": "cf8488350ccb03fdc5e1f3508a30137234b6dc85ea258b9ee37ceaa485f34024"
+    },
+    {
+      "name": "entityculling-forge-1.9.5-mc1.20.1.jar",
+      "path": "mods/entityculling-forge-1.9.5-mc1.20.1.jar",
+      "sha256": "8f80f3953fc988d8c6b4a88035441cad631fea87a413267526b64543890c02b0"
+    },
+    {
+      "name": "expanded_combat-1.20.1-3.2.7-all.jar",
+      "path": "mods/expanded_combat-1.20.1-3.2.7-all.jar",
+      "sha256": "804db3c6937f5bc4d79ebe4f7c5b47896a97595ea2000a924caae1e31bb5c975"
+    },
+    {
+      "name": "FarmersDelight-1.20.1-1.2.10.jar",
+      "path": "mods/FarmersDelight-1.20.1-1.2.10.jar",
+      "sha256": "32404e9bf43fb8b8b1602e7d561a3831117d6b167c2b77b82dfb1515d08744f0"
+    },
+    {
+      "name": "ferritecore-6.0.1-forge.jar",
+      "path": "mods/ferritecore-6.0.1-forge.jar",
+      "sha256": "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54"
+    },
+    {
+      "name": "framework-forge-1.20.1-0.7.15.jar",
+      "path": "mods/framework-forge-1.20.1-0.7.15.jar",
+      "sha256": "0c29b9bab2ca7209a6cc8d80b2cd06daa4be2da81b636f7292cebebfaaea6c08"
+    },
+    {
+      "name": "ftb-library-forge-2001.2.12.jar",
+      "path": "mods/ftb-library-forge-2001.2.12.jar",
+      "sha256": "f09335944fff8ca3ef37a40e0b125ffb6707759ede258c73f9ce9bac61bfbf96"
+    },
+    {
+      "name": "ftb-quests-forge-2001.4.17.jar",
+      "path": "mods/ftb-quests-forge-2001.4.17.jar",
+      "sha256": "0c9e8a8a0cbeb2f77f9f50a412758e66fb01d638c8b43feef7262d8c2cedd60d"
+    },
+    {
+      "name": "ftb-teams-forge-2001.3.1.jar",
+      "path": "mods/ftb-teams-forge-2001.3.1.jar",
+      "sha256": "d6e3cf8d0bdae7f848764428c613ae2528aecf9d275b4169eb8e15da87b41863"
+    },
+    {
+      "name": "ftb-ultimine-forge-2001.1.7.jar",
+      "path": "mods/ftb-ultimine-forge-2001.1.7.jar",
+      "sha256": "317c94a8ad011907932b7f0eec875b1b0233bc9164e8920c702186570da74d69"
+    },
+    {
+      "name": "fzzy_config-0.7.5%2B1.20.1%2Bforge.jar",
+      "path": "mods/fzzy_config-0.7.5%2B1.20.1%2Bforge.jar",
+      "sha256": "033f8f6f0150aed1d1ea5218413d1b07da706917bc68ae06730648f365f34c40"
+    },
+    {
+      "name": "geckolib-forge-1.20.1-4.8.2.jar",
+      "path": "mods/geckolib-forge-1.20.1-4.8.2.jar",
+      "sha256": "a2e4bcc986ce360f4e85d545a86b04c8c9350543ebd17069b6a44c0a8939ffdc"
+    },
+    {
+      "name": "GlitchCore-forge-1.20.1-0.0.1.1.jar",
+      "path": "mods/GlitchCore-forge-1.20.1-0.0.1.1.jar",
+      "sha256": "e42a8b513da08a910c133caeafad9fc2fcc22fdaaa2eb3e2516e9112a5a0db61"
+    },
+    {
+      "name": "Gobber2-Forge-1.20.1-2.8.9.jar",
+      "path": "mods/Gobber2-Forge-1.20.1-2.8.9.jar",
+      "sha256": "b57f298e421d50fb242b2f5c5f67dce8bdf6f47b83443d9fca8f9bcb82963d73"
+    },
+    {
+      "name": "gravestone-forge-1.20.1-1.0.35.jar",
+      "path": "mods/gravestone-forge-1.20.1-1.0.35.jar",
+      "sha256": "3d31bd224bc1f9055c502cf675416ae8046dbc15bf2db6627e26a032da437e85"
+    },
+    {
+      "name": "heavenly_restriction-1.0.jar",
+      "path": "mods/heavenly_restriction-1.0.jar",
+      "sha256": "7fe81f8191f478ef0287d7846e9185c42d2256dd9481301dec6db26988b99362"
+    },
+    {
+      "name": "iceandfire-2.1.13-1.20.1-beta-5.jar",
+      "path": "mods/iceandfire-2.1.13-1.20.1-beta-5.jar",
+      "sha256": "2b80245fc9b7d6fdc61d71f9892f4c6114eb7f303f65634845aaab25f84d1e82"
+    },
+    {
+      "name": "iceandfirebettercombat1.20.1-1.0.1.jar",
+      "path": "mods/iceandfirebettercombat1.20.1-1.0.1.jar",
+      "sha256": "de5bd8b59c10470dfb862508bd024cf89a17c11a36df4fd8f441782e186718dc"
+    },
+    {
+      "name": "item-filters-forge-2001.1.0-build.59.jar",
+      "path": "mods/item-filters-forge-2001.1.0-build.59.jar",
+      "sha256": "99417b1342ba51ccb9611b17ab01fc1299971aa34e8f9d2a8b3c63df5713eb49"
+    },
+    {
+      "name": "jei-1.20.1-forge-15.20.0.129.jar",
+      "path": "mods/jei-1.20.1-forge-15.20.0.129.jar",
+      "sha256": "5e5af05aa082f5844c7b3ed0b3bd9374e160ae1914906f71d90c5656e4e80039"
+    },
+    {
+      "name": "justmobheads-1.20.1-8.5.jar",
+      "path": "mods/justmobheads-1.20.1-8.5.jar",
+      "sha256": "b280cd8ed5a5847679f4dbbe876d37ab4186c44e7722f560f6f16f5befb743b9"
+    },
+    {
+      "name": "justplayerheads-1.20.1-4.2.jar",
+      "path": "mods/justplayerheads-1.20.1-4.2.jar",
+      "sha256": "37f8d83de155db79e54dc715baea5c813cfd0f648a53a25da41b4cfc531e6691"
+    },
+    {
+      "name": "kotlinforforge-4.12.0-all.jar",
+      "path": "mods/kotlinforforge-4.12.0-all.jar",
+      "sha256": "6a66c6a68ec09f8717cdbf06883394f0ee24d7cd826b7134a0f81839e8e720ae"
+    },
+    {
+      "name": "lightmanscurrency-1.20.1-2.3.0.4d.jar",
+      "path": "mods/lightmanscurrency-1.20.1-2.3.0.4d.jar",
+      "sha256": "31761284be1ee4abc1ae7b2ade30951cf221b9d3faaf0348501afb32a3909a16"
+    },
+    {
+      "name": "mahoutsukai-1.20.1-v1.34.81.jar",
+      "path": "mods/mahoutsukai-1.20.1-v1.34.81.jar",
+      "sha256": "761b489b86de68d1d05fe516e68337c43858eb0bd4d1d1e8228f7b72a4d32d5a"
+    },
+    {
+      "name": "Mantle-1.20.1-1.11.97.jar",
+      "path": "mods/Mantle-1.20.1-1.11.97.jar",
+      "sha256": "67c79f7cbea8f4d2be8987a7ee83d7a341b841de89c3c09acd2edbf7e539e61e"
+    },
+    {
+      "name": "matowos_invisible_armor-1.7.1%2B1.20-1.20.1-forge.jar",
+      "path": "mods/matowos_invisible_armor-1.7.1%2B1.20-1.20.1-forge.jar",
+      "sha256": "71a38fc9199d1c10ea1d5824a58a7b90fa6618d7184b77581ff5ff158295c051"
+    },
+    {
+      "name": "minecraft-comes-alive-Reworked-1.20.1.jar",
+      "path": "mods/minecraft-comes-alive-Reworked-1.20.1.jar",
+      "sha256": "4fe3c516ba00b824a8a8d77b6ed72c2bd5a2809dc754481d5531c972f96044b4"
+    },
+    {
+      "name": "modernfix-forge-5.26.2%2Bmc1.20.1.jar",
+      "path": "mods/modernfix-forge-5.26.2%2Bmc1.20.1.jar",
+      "sha256": "e9f00f787a78a976b8493eafeee63ff08fadb31bcb0a1e938d7b940d17ac70ae"
+    },
+    {
+      "name": "mowziesmobs-1.7.3.jar",
+      "path": "mods/mowziesmobs-1.7.3.jar",
+      "sha256": "4d54374808bb4c91dc2660d67a2558dd4a79eb56ae4eeeec4e4d7446973cb0ba"
+    },
+    {
+      "name": "NinjaCraft-1.20.1-Rethinking-2.1.1.jar",
+      "path": "mods/NinjaCraft-1.20.1-Rethinking-2.1.1.jar",
+      "sha256": "2c4cde3a52c467a099e5120e724019032e74f3c1cf8ef6f5355bc9d64166d370"
+    },
+    {
+      "name": "ParCool-1.20.1-3.4.3.2.jar",
+      "path": "mods/ParCool-1.20.1-3.4.3.2.jar",
+      "sha256": "5391679a6302224b4d3bcbf78acd8b0ebbda47f27366c2531bbfb30f40052024"
+    },
+    {
+      "name": "ParCool-CompatibilityAddon-1.20.1-3.4.1.5-1.1.jar",
+      "path": "mods/ParCool-CompatibilityAddon-1.20.1-3.4.1.5-1.1.jar",
+      "sha256": "f7cf79f065b076f03ca42e7abb33cb00aa3ed8ca0743296dc25549c2efbc3871"
+    },
+    {
+      "name": "Patchouli-1.20.1-84.1-FORGE.jar",
+      "path": "mods/Patchouli-1.20.1-84.1-FORGE.jar",
+      "sha256": "9cc38ebb5e29b350222e337b7a5a2ba238c802230a89434ce00e90ee3026d056"
+    },
+    {
+      "name": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "path": "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "sha256": "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691"
+    },
+    {
+      "name": "samurai_dynasty-0.0.51-1.20.1-forge.jar",
+      "path": "mods/samurai_dynasty-0.0.51-1.20.1-forge.jar",
+      "sha256": "be95a714c1d5b2e577cf2d05c6158782cc484951d08ef0ea17b3c31b80f544df"
+    },
+    {
+      "name": "SereneSeasons-forge-1.20.1-9.1.0.2.jar",
+      "path": "mods/SereneSeasons-forge-1.20.1-9.1.0.2.jar",
+      "sha256": "c4f1b6bcbd2c4fd8c54866cc217f455d2e8262e35ac218f8fb628c79bc76ff8e"
+    },
+    {
+      "name": "simplyswords-forge-1.56.0-1.20.1.jar",
+      "path": "mods/simplyswords-forge-1.56.0-1.20.1.jar",
+      "sha256": "318f1c362b69db22324cc87307549643b795d7c57b652cebdc9d946f03a21c5f"
+    },
+    {
+      "name": "StorageDrawers-forge-1.20.1-12.14.3.jar",
+      "path": "mods/StorageDrawers-forge-1.20.1-12.14.3.jar",
+      "sha256": "e7af06fe1c2104ad4c0d8bd2c35388cdf1f9e12e637515c9c24915c656731d30"
+    },
+    {
+      "name": "structure_gel-1.20.1-2.16.2.jar",
+      "path": "mods/structure_gel-1.20.1-2.16.2.jar",
+      "sha256": "1584a5aed31c0f63e53c29d53cf4e069cdabf358e785240cc500702dc5918e3e"
+    },
+    {
+      "name": "tacz-1.20.1-1.1.7-hotfix.jar",
+      "path": "mods/tacz-1.20.1-1.1.7-hotfix.jar",
+      "sha256": "d8cfadd19fd760573967d78e1bb25defda4c649c2655a8b033d9a70dd4caa176"
+    },
+    {
+      "name": "tl_skin_cape_forge_1.20_1.20.1-1.32.jar",
+      "path": "mods/tl_skin_cape_forge_1.20_1.20.1-1.32.jar",
+      "sha256": "b7d7c81ecc057a6b00977380d86c0b1730067f7403dca50c88d6aee98ca6aefa"
+    },
+    {
+      "name": "travelersbackpack-forge-1.20.1-9.1.46.jar",
+      "path": "mods/travelersbackpack-forge-1.20.1-9.1.46.jar",
+      "sha256": "121e08e7399bc3a6bd8c0a15c4353dd608f80973c1d7e622c768829f81af6072"
+    },
+    {
+      "name": "twoplayersonehorse-forge-1.20.1-1.0.3.jar",
+      "path": "mods/twoplayersonehorse-forge-1.20.1-1.0.3.jar",
+      "sha256": "05bc3eddff8491f5c5afee8ed1ff470b7d981b11e42d9754192d2359ea0d885b"
+    },
+    {
+      "name": "voicechat-forge-1.20.1-2.6.11.jar",
+      "path": "mods/voicechat-forge-1.20.1-2.6.11.jar",
+      "sha256": "bc18210b677978cb7d0fe38de7ee0ae77b67a1f328cfe2dde592a5d88178ea1f"
+    },
+    {
+      "name": "waystones-forge-1.20.1-14.1.18.jar",
+      "path": "mods/waystones-forge-1.20.1-14.1.18.jar",
+      "sha256": "ebfefb7fbfdcf7f4929060dbfe456acc94d606d2311f559510e135b6de8cce7c"
+    },
+    {
+      "name": "weaponmaster_ydm-forge-1.20.1-4.2.3.jar",
+      "path": "mods/weaponmaster_ydm-forge-1.20.1-4.2.3.jar",
+      "sha256": "da63af14bd71b0be80376ed5ccc4e3669214e0e8baa5c7c1bbfa83d567513e9a"
     }
   ]
 }
