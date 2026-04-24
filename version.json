@@ -1,9 +1,9 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "mcVersion": "1.20.1",
   "loaderType": "fabric",
   "loaderVersion": "0.15.6",
-  "releaseDate": "2026-04-20",
+  "releaseDate": "2026-04-24",
   "changelog": "Adicionado Sodium e Iris para melhor performance!",
   "files": [
     {
@@ -265,6 +265,11 @@
       "name": "SereneSeasons-forge-1.20.1-9.1.0.2.jar",
       "path": "mods/SereneSeasons-forge-1.20.1-9.1.0.2.jar",
       "sha256": "c4f1b6bcbd2c4fd8c54866cc217f455d2e8262e35ac218f8fb628c79bc76ff8e"
+    },
+    {
+      "name": "SimpleLogin-1.20.1-1.0.2-all.jar",
+      "path": "mods/SimpleLogin-1.20.1-1.0.2-all.jar",
+      "sha256": "1e923563c4d85793ef59849114c0a7c51ba1e1446e1976eeedb58acb81f52b44"
     },
     {
       "name": "simplyswords-forge-1.56.0-1.20.1.jar",
